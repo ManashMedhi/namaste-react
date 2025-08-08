@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "@parcel/resolver-default": "^2.15.4",
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^6.30.1"
+  },
+  "name": "reactproject",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
